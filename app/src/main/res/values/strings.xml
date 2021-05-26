@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_music">All music</string>
+    <string name="_1_12">1/12</string>
+    <string name="atirgulim">Atirgulim</string>
+    <string name="anvar_sanayev">Anvar Sanayev</string>
+</resources>
